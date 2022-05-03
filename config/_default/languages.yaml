@@ -1,0 +1,37 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://wowchemy.com/docs/guide/language/
+
+# Default language: Español
+es:
+ languageCode: es
+ weight: 1
+
+ # contentDir: content/es 
+ # title: Home
+ 
+# Second language: Inglés
+# Uncomment the lines below to configure your website in a second language.
+# Uncomment for multi-lingual sites, and move English content into `en` sub-folder. 
+en:
+  languageCode: en
+#   contentDir: content/en
+  title: Home
+  weight: 2
+  menu:
+   main:
+     - name: About
+       url: '#about'
+       weight: 1
+     - name: Publications
+       url: '#featured'
+       weight: 2
+     - name: Projects
+       url: '#projects'
+       weight: 3
+#   params:
+#      description: Site description in english
+# 
+# fr:
+#   languageCode: fr
+#   weight: 3
