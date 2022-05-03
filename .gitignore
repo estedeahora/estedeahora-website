@@ -37,3 +37,13 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+.DS_Store
+.hugo_build.lock
+Thumbs.db
+
+/public/
+/resources/
+
+/R/*
+/draft/*
