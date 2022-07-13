@@ -54,4 +54,4 @@ superuser: true
 
 Desarrollo mi programa Doctoral en la *Facultad de Ciencias Sociales (UBA)*, como integrante del *Área de Estudios Urbanos (IIGG-UBA)*. Mi trabajo se enfoca en el análisis de datos y la programación estadística dentro del campo de los Estudios Urbanos y las Ciencias Sociales.
 
-Mi Tesis de Maestría indaga en la relación entre desigualdades educativas y territoriales en la CABA (*MGAIE-UNTREF*). Actualmente me dedico al estudio de la *segregación urbana*, focalizando en la forma  en que se articula la segregación en diferentes dominios de la vida social. 
+Mi [Tesis de Maestría](https://github.com/estedeahora/MGAIE_Territorio-en-la-escuela) indaga en la relación entre desigualdades educativas y territoriales en la CABA (*MGAIE-UNTREF*). Actualmente me dedico al estudio de la *segregación urbana*, focalizando en la forma en que se articula la segregación en diferentes dominios de la vida social.

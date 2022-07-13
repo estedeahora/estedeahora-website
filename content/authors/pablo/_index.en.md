@@ -54,4 +54,4 @@ superuser: true
 
 I am a PhD student in social science at the *Faculty of Social Sciences (Universidad de Buenos Aires)*, as part of the *Urban Studies Area (IIGG-UBA)*. My work is focused on the use of data analysis techniques and statistical programming in the fields of Urban Studies and Social Science.
 
-My Master's Thesis addresses the relationship between educational and territorial inequalities in CABA (*MGAIE-UNTREF*). I am currently dedicated to the study of urban segregation, with special attention to the way in which segregation is articulated in different domains of social life. 
+My [Master's Thesis](https://github.com/estedeahora/MGAIE_Territorio-en-la-escuela) addresses the relationship between educational and territorial inequalities in CABA (*MGAIE-UNTREF*). I am currently dedicated to the study of urban segregation, with special attention to the way in which segregation is articulated in different domains of social life.
