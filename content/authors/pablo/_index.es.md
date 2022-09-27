@@ -42,6 +42,9 @@ social:
 - icon: orcid
   icon_pack: ai 
   link: https://orcid.org/0000-0001-5300-2243
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=zKmX1j8AAAAJ
 - icon: conicet
   icon_pack: custom
   link: https://www.conicet.gov.ar/new_scp/detalle.php?id=57050&datos_academicos=yes
