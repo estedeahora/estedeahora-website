@@ -12,9 +12,9 @@ date: "2023-04-12T00:00:00Z"
 # doi: ""  
 featured: true
 
-# links: 
-#   - name: Abstract
-#     url: 'publication/2023_school-residential-segregation'
+links:
+  - name: Abstract
+    url: 'publication/2023_school-residential-segregation'
 
 --- 
 
