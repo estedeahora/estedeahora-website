@@ -13,7 +13,7 @@ doi: ""
 featured: true
 
 links:
-  - name: Artículo
+  - name: Resumen
     url: 'publication/2022_school-segmentation'
 
 --- 
