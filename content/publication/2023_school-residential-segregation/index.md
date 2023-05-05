@@ -7,22 +7,22 @@ abstract: "The link between residential and school segregation is widely recogni
 authors:
 - Pablo Serrati
 
-date: "2023-03-10T00:00:00Z"
+date: "2023-05-15T00:00:00Z"
 doi: "10.31235/osf.io/ayx3q"
-featured: false
+featured: true
 image:
   focal_point: ""
   preview_only: false
 projects: []
-# publication: '**'
+publication: 'Urban Studies'
 # publication_short: ""
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent; 9 = Peer review
-publication_types: ["3"]
+publication_types: ["2"]
 
-publishDate: "2022-02-22T00:00:00Z"
+publishDate: "2022-05-15T00:00:00Z"
 
 tags:
 - Segregación residencial

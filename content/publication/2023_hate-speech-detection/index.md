@@ -3,9 +3,7 @@ title: Assessing the impact of contextual information in hate speech detection
 
 # subtitle: Evidence from the Case of the Greater Buenos Aires Agglomerate
  
-# publication: '*Territorios*, (47)'
-
-
+publication: '*IEEE Accesss* 11'
 
 # author_notes:
 # - Equal contribution
@@ -32,8 +30,8 @@ tags:
 - Spanish annotated corpus
 - COVID-19 Hate Speech
 
-date: "2023-03-01T00:00:00Z"
-doi: "https://doi.org/10.48550/arXiv.2210.00465"
+date: "2023-03-20T00:00:00Z"
+doi: "10.1109/ACCESS.2023.3258973"
 featured: true
 image:
   focal_point: ""
@@ -44,8 +42,8 @@ projects: []
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
-publishDate: "2022-09-07T00:00:00Z"
+publication_types: ["2"]
+publishDate: "2023-03-20T00:00:00Z"
 
-url_pdf: 'https://arxiv.org/pdf/2210.00465.pdf'
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10076443'
 ---

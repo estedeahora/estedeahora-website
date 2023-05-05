@@ -5,8 +5,6 @@ subtitle: Evidence from the Case of the Greater Buenos Aires Agglomerate
  
 publication: '*Territorios*, (47)'
 
-
-
 author_notes:
 - Equal contribution
 - Equal contribution

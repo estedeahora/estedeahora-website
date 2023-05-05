@@ -2,7 +2,7 @@
 title: La segregación residencial desde el caleidoscopio de las movilidades urbanas entre familias residentes en la zona sur de la Ciudad Autónoma de Buenos Aires
 
 publication: '*Marginalidad Urbana y Efectos Institucionales: Sociedad, Estado y territorio en Latinoamérica a comienzos del siglo XXI*'
-
+ 
 author_notes:
 - Equal contribution
 - Equal contribution

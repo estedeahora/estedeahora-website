@@ -3,7 +3,7 @@ title: Tipos residenciales y procesos de micro-segregación en la antigua perife
 
 subtitle: Una mirada desde la perspectiva de la movilidad residencial
  
-publication: '*Revista Argentina de Sociología, 16*(26)'
+publication: '*Revista Argentina de Sociología, 16* (26)'
  
 author_notes:
 - Equal contribution

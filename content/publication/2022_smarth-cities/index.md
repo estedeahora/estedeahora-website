@@ -5,8 +5,6 @@ subtitle: Evidencias a partir del caso del aglomerado Gran Buenos Aires
  
 publication: '*Territorios*, (47)'
 
-
-
 author_notes:
 - Equal contribution
 - Equal contribution

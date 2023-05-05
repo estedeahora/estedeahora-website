@@ -19,7 +19,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-# publication: '**'
+publication: 'Foro de educación musical, artes y pedagogía'
 # publication_short: ""
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -36,9 +36,4 @@ tags:
 - Music teacher´s habitus
 
 url_pdf: publication/2016_musician-teacher/
-
-# url_code: "https://github.com/estedeahora/"
-#links:
-#  - name: Material suplementario
-#    url: 'publication/2022_school-segmentation/Appendix.html'
 ---

@@ -18,7 +18,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-# publication: '**'
+publication: 'Foro de educación musical, artes y pedagogía'
 # publication_short: ""
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
