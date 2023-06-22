@@ -8,7 +8,7 @@ authors:
 - Pablo Serrati
 
 date: "2023-05-15T00:00:00Z"
-doi: "10.31235/osf.io/ayx3q"
+doi: "10.1177/00420980231178401"
 featured: true
 image:
   focal_point: ""
