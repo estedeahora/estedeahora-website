@@ -1,6 +1,6 @@
 ---
 
-title: ¿Uno o muchos sistemas? 
+title: Diferencia entre escuelas en la ciudad de Buenos Aires (Argentina) 
 subtitle: Material suplementario
 
 type: "page"
@@ -14,7 +14,7 @@ featured: true
 
 links:
   - name: Resumen
-    url: 'publication/2022_school-segmentation'
+    url: 'publication/2023_school-segmentation'
 
 --- 
 

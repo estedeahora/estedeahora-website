@@ -1,6 +1,6 @@
 ---
 
-title: One or many systems?
+title: Difference between schools in Buenos Aires (Argentina)
 subtitle: Supplementary material
 
 type: "page"
@@ -14,7 +14,7 @@ featured: true
 
 links:
   - name: Abstract
-    url: 'publication/2022_school-segmentation'
+    url: 'en/publication/2023_school-segmentation'
 
 --- 
 
