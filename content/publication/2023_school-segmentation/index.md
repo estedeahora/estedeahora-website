@@ -22,13 +22,14 @@ publication: 'Education Policy Analysis Archives/Archivos Analíticos de Políti
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent; 9 = Peer review
 publication_types: ["2"]
-publishDate: "2022-04-01T00:00:00Z"
+publishDate: "2023-09-26T00:00:00Z"
 tags:
 - Diferencia entre escuelas
 - Segmentación escolar
 - Segregación escolar
 - Buenos Aires (Argentina)
 
+url_pdf: https://epaa.asu.edu/index.php/epaa/article/view/7569/3223
 url_code: "https://github.com/estedeahora/schoolsegmentation"
 links:
   - name: Material suplementario
