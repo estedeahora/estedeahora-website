@@ -37,4 +37,6 @@ tags:
 - City of Buenos Aires
 
 url_code: "https://github.com/estedeahora/AdB"
+url_pdf: https://recyt.fecyt.es/index.php/res/article/view/93635/73751
+
 ---

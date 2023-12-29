@@ -31,6 +31,7 @@ publication_types: ["4"]
 publishDate: "2020-09-01T00:00:00Z"
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 
-url_pdf: https://www.buenosaires.gob.ar/sites/gcaba/files/zoom_educativo_desigualdad_educativa-divirgilio-serrati-web.pdf
+url_pdf: https://oei.org.ar/wp-content/uploads/2019/11/3-Desigualdad-educativa-DiVirgilio-Serrati-web.pdf
+# https://www.buenosaires.gob.ar/sites/gcaba/files/zoom_educativo_desigualdad_educativa-divirgilio-serrati-web.pdf
 
 ---
